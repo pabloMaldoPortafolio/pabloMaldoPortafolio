@@ -8,7 +8,7 @@
 - <b>Threads and Concurrency with Java</b>
   - [Introduction to Concurrency using Java](https://github.com/pabloMaldoPortafolio/Concurrency-Java)
 
-- <b>Maps and Immitability</b>
+- <b>Maps and Immutability</b>
   - [Aventure Game](https://github.com/pabloMaldoPortafolio/Aventure-game)
 
 
