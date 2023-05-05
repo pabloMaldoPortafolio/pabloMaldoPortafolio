@@ -2,13 +2,13 @@
 
 <h2>👨‍💻 Programming Projects:</h2>
 
-- <b>Pablo's Burger: An introduction to OOP basics with Java</b>
-  - [Pablo's Burger ](https://github.com/pabloMaldoPortafolio/Pablo-s-Burger)
+- <b>Introduction to OOP basics with Java</b>
+  - [Pablo's Burger](https://github.com/pabloMaldoPortafolio/Pablo-s-Burger)
 
 - <b>Threads and Concurrency with Java</b>
   - [Introduction to Concurrency using Java](https://github.com/pabloMaldoPortafolio/Concurrency-Java)
 
-- <b>Maps and Defensive Programming</b>
+- <b>Maps and Immitability</b>
   - [Aventure Game](https://github.com/pabloMaldoPortafolio/Aventure-game)
 
 
