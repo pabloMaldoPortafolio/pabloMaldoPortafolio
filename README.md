@@ -11,6 +11,9 @@
 - <b>Maps and Immutability</b>
   - [Aventure Game](https://github.com/pabloMaldoPortafolio/Aventure-game)
 
+- <b>Other IT projects</b>
+  - [IT Oriented Projects](https://github.com/pablomaldonadofiu)
+
 
 <h2>🤳Connect with me:</h2>
 
