@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pablo, an <a href="https://www.linkedin.com/in/pablo-maldonado1b/">Software Developer Professional</a>☺</h1>
+<h1>Hi, I'm Pablo, a <a href="https://www.linkedin.com/in/pablo-maldonado1b/">Software Developer Professional</a>☺</h1>
 
 <h2>👨‍💻 Programming Projects:</h2>
 
